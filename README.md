@@ -1,7 +1,7 @@
 # CENG 3548 Final Project
 
 ## Team & Roles
-#### Özgür Doğan / 170709026 / 
+#### Özgür Doğan / 170709026
 - Data Preprocessing
 - Modeling
 #### Halil İbrahim Ceylan / 390709073
